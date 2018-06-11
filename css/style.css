@@ -94,6 +94,9 @@ video {
 	font: inherit;
 	vertical-align: baseline;
 }
+label{
+	font-weight: bold;
+}
 
 article,
 aside,
